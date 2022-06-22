@@ -12,7 +12,7 @@
   "env": {
     "TOKEN": {
       "description": "JavTube Server Access Token",
-      "generator": "secret"
+      "value": "98EB81C0-2524-4100-A64D-03629ADB8F88"
     }
   },
   "stack": "container"
