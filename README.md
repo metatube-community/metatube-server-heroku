@@ -1,6 +1,6 @@
 # JavTube Server Heroku
 
-使用本项目可以快速将`JavTube`后端部署至[`Heroku`](https://heroku.com)云平台。
+使用本项目可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
 
 ## 一键部署
 
