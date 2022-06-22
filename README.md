@@ -1,5 +1,8 @@
 # JavTube Server Heroku
 
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
+[![License](https://img.shields.io/github/license/javtube/javtube-server-heroku?style=for-the-badge&logo=github&color=blue)](https://github.com/javtube/javtube-server-heroku/blob/main/LICENSE)
+
 使用本项目可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
 
 ## 一键部署
