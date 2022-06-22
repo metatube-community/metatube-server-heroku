@@ -5,7 +5,12 @@
     "JavTube",
     "RESTful"
   ],
-  "env": {},
+  "env": {
+    "TOKEN": {
+      "description": "JavTube Server Access Token",
+      "value": "98EB81C0-2524-4100-A64D-03629ADB8F88"
+    }
+  },
   "website": "",
   "repository": "",
   "stack": "container"
