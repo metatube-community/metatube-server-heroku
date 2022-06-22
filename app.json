@@ -1,6 +1,6 @@
 {
   "name": "JavTube",
-  "description": "Deploy JavTube Server on Heroku.",
+  "description": "Deploy JavTube Server to Heroku.",
   "keywords": [
     "JavTube",
     "RESTful"
