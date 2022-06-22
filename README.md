@@ -1,6 +1,6 @@
 # JavTube Server Heroku
 
-Just Another Video Tube Server on Heroku.
+快速将`JavTube`后端快速部署到[`Heroku`](https://heroku.com)。
 
 ## 一键部署
 
