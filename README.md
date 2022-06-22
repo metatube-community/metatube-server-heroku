@@ -3,6 +3,9 @@
 <!-- [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](https://heroku.com)
 [![License](https://img.shields.io/github/license/javtube/javtube-server-heroku?style=flat-square&logo=github&color=blue)](https://github.com/javtube/javtube-server-heroku/blob/main/LICENSE) -->
 
+> - 部分新建的应用有可能需要科学访问，如果需要可以套一层Cloudflare CDN或Workers。
+> - Heroku对免费账号存在如内存、启动时间等限制，但是对于个人部署使用JavTube后端项目理论上是足够的，具体可以参考[Pricing](https://www.heroku.com/pricing)。
+
 使用本项目可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
 
 ## 一键部署
