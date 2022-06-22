@@ -1,0 +1,12 @@
+{
+  "name": "JavTube",
+  "description": "Deploy JavTube Server on Heroku.",
+  "keywords": [
+    "JavTube",
+    "RESTful"
+  ],
+  "env": {},
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
