@@ -28,20 +28,20 @@
 
 - 在`App name`中输入自定义的应用名。
 - **建议**将地区选择为`United States`。
-- 在`Config Vars`中重新输入新的`TOKEN`并**复制**。
+- 在`Config Vars`中输入新的`TOKEN`并**复制**。
 - 点击`Deploy app`完成部署。
 
 ![create](images/create.png)
 
-- 右键**复制**View中的链接地址作为`JavTube Server URL`。
+- 右键**复制**View中的`JavTube Server URL`链接地址。
 
 ![view](images/view.png)
 
-- 点击View，出现类似如下的页面即为成功部署。
+- 可以点击View，出现类似如下的页面即为部署成功。
 
 ![page](images/page.png)
 
-- 在JavTube插件中分别粘贴进之前复制的`JavTube Server URL`与`TOKEN`，即可完成插件配置。
+- 在JavTube插件中分别粘贴进之前复制的`JavTube Server URL`与`TOKEN`以完成插件配置。
 
 ![plugin](images/plugin.png)
 
