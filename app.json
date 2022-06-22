@@ -5,13 +5,13 @@
     "JavTube",
     "RESTful"
   ],
-  "website": "",
+  "website": "https://javtube.github.io",
   "logo": "https://javtube.github.io/logos/logo.png",
   "repository": "https://github.com/javtube/javtube-server-heroku",
   "env": {
     "TOKEN": {
       "description": "JavTube Server Access Token",
-      "value": "98EB81C0-2524-4100-A64D-03629ADB8F88"
+      "generator": "secret"
     }
   },
   "stack": "container"
