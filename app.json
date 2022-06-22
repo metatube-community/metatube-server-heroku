@@ -5,9 +5,10 @@
     "JavTube",
     "RESTful"
   ],
+  "repository": "https://github.com/javtube/javtube-server-heroku",
   "website": "https://javtube.github.io",
   "logo": "https://javtube.github.io/logos/logo.png",
-  "repository": "https://github.com/javtube/javtube-server-heroku",
+  "success_url": "/",
   "env": {
     "TOKEN": {
       "description": "JavTube Server Access Token",
