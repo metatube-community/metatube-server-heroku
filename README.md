@@ -67,6 +67,22 @@
 
 ![deploy-github](images/deploy-github.png)
 
+- 在弹出的页面中，点击`Authorize Heroku`。
+
+![auth-heroku](images/auth-heroku.png)
+
+- 按如下步骤连接之前Fork的仓库。
+
+![connect-repo](images/connect-repo.png)
+
+- 点击`Deploy Branch`，即可完成更新。
+
+![deploy-branch](images/deploy-branch.png)
+
+- 出现如下图所示，即已完成更新。
+
+![deployed](images/deployed.png)
+
 > PS：当然也可以直接通过**删除**并**重新创建**应用来进行更新，但是注意`app name`和`token`需要和之前保持一致。
 
 ### 删除应用
