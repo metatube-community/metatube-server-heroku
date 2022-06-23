@@ -17,8 +17,8 @@
 > 以下步骤需要登录Heroku账号，没有账号的可以先进行[注册](https://signup.heroku.com/)。
 
 - [部署应用](#部署应用)
-- [删除应用](#删除应用)
 - [更新应用](#更新应用)
+- [删除应用](#删除应用)
 
 ### 部署应用
 
@@ -45,6 +45,30 @@
 
 ![plugin](images/plugin.png)
 
+### 更新应用
+
+- 点击本仓库右上方的`Fork`按钮。
+
+![fork](images/fork.png)
+
+- 点击`Create fork`。
+
+![create-fork](images/create-fork.png)
+
+- 然后进入[Heroku Dashboard](https://dashboard.heroku.com/apps)，选择之前部署的应用。
+
+![dashboard](images/dashboard.png)
+
+- 在Dashboard中，选择`Deploy`。
+
+![overview-deploy](images/overview-deploy.png)
+
+- 在`Deploy`中，选择`GitHub`并点击`Connect to GitHub`。
+
+![deploy-github](images/deploy-github.png)
+
+> PS：当然也可以直接通过**删除**并**重新创建**应用来进行更新，但是注意`app name`和`token`需要和之前保持一致。
+
 ### 删除应用
 
 - 进入[Heroku Dashboard](https://dashboard.heroku.com/apps)，点击需要删除的应用。
@@ -53,7 +77,7 @@
 
 - 点击设置`Settings`。
 
-![overview](images/overview.png)
+![overview-settings](images/overview-settings.png)
 
 - 拉到设置最底部，点击`Delete app`。
 
@@ -62,9 +86,3 @@
 - 按提示，重新输入一遍应用名以删除应用。
 
 ![delete](images/delete.png)
-
-### 更新应用
-
-> 更新应用有许多方式，这里仅例举一种最简单的方式。
-
-- 删除并重新创建应用即可，注意`app name`和`token`需保持一致。
