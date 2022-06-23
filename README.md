@@ -6,7 +6,7 @@
 > - 部分新建的应用有可能需要科学访问，如果需要可以套一层Cloudflare CDN或Workers。
 > - Heroku对免费账号存在如内存、冷启动等限制，但是对于个人部署使用JavTube后端项目理论上是足够的，具体可以参考[Pricing](https://www.heroku.com/pricing)。
 
-使用本项目可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
+使用本仓库可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
 
 ## 一键部署
 
@@ -55,7 +55,7 @@
 
 ![create-fork](images/create-fork.png)
 
-- 如果之前已经Fork过本仓库，则选择`Fetch upstream -> Fetch and merge`，否则跳过此步骤。
+- 如果**之前已经Fork过**本仓库，则选择`Fetch upstream -> Fetch and merge`，**否则跳过此步骤**。
 
 > 建议每次在更新后端之前，都尝试`Fetch and merge`以与源仓库保持同步。
 
