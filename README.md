@@ -55,6 +55,12 @@
 
 ![create-fork](images/create-fork.png)
 
+- 如果之前已经Fork过本仓库，则选择`Fetch upstream -> Fetch and merge`，否则跳过此步骤。
+
+> 建议每次在更新后端之前，都尝试`Fetch and merge`以与源仓库保持同步。
+
+![fetch-merge](images/fetch-merge.png)
+
 - 然后进入[Heroku Dashboard](https://dashboard.heroku.com/apps)，选择之前部署的应用。
 
 ![dashboard](images/dashboard.png)
@@ -77,9 +83,11 @@
 
 - 点击`Deploy Branch`，即可完成更新。
 
+> 后续更新后端也只需要点击`Deploy Branch`即可。
+
 ![deploy-branch](images/deploy-branch.png)
 
-- 出现如下图所示，即已完成更新。
+- 如下图所示，即表示已完成更新。
 
 ![deployed](images/deployed.png)
 
