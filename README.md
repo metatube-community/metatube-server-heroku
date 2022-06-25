@@ -95,6 +95,8 @@
 
 ### 删除应用
 
+⚠本步骤会删除之前部署的应用导致后续刮削请求失败。除非有明确需求（例如重新部署应用），否则请忽略本步骤⚠
+
 - 进入[Heroku Dashboard](https://dashboard.heroku.com/apps)，点击需要删除的应用。
 
 ![dashboard](images/dashboard.png)
