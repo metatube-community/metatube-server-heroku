@@ -1,12 +1,21 @@
 # JavTube Server Heroku
 
+## ‼️置顶
+> **Heroku Update**
+Starting November 28th, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® will no longer be available.
+If you have apps using any of these resources, you must upgrade to paid plans by this date to ensure your apps continue to run and to retain your data. For students, we will announce a new program by the end of September.
+
+Heroku不再免费，请使用Docker部署后端。
+
+## 项目介绍
+
 <!-- [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](https://heroku.com)
 [![License](https://img.shields.io/github/license/javtube/javtube-server-heroku?style=flat-square&logo=github&color=blue)](https://github.com/javtube/javtube-server-heroku/blob/main/LICENSE) -->
 
 > - 部分新建的应用有可能需要科学访问，如果需要可以套一层Cloudflare CDN或Workers。
 > - Heroku对免费账号存在如内存、冷启动等限制，但是对于个人部署使用JavTube后端项目理论上是足够的，具体可以参考[Pricing](https://www.heroku.com/pricing)。
 
-使用本仓库可以快速将`JavTube`后端**免费**部署至[`Heroku`](https://heroku.com)云平台。
+使用本仓库可以快速将`JavTube`后端~~免费~~部署至[`Heroku`](https://heroku.com)云平台。
 
 ## 一键部署
 
