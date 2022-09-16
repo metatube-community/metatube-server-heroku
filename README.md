@@ -6,7 +6,7 @@
 >Starting November 28th, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® will no longer be available.
 If you have apps using any of these resources, you must upgrade to paid plans by this date to ensure your apps continue to run and to retain your data. For students, we will announce a new program by the end of September.
 
-Heroku不再免费，请使用Docker部署后端。
+Heroku不再免费，请使用Docker部署后端，或使用[Koyeb快速部署](https://github.com/javtube/javtube-server-koyeb)。
 
 ## 项目介绍
 
